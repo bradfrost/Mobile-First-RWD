@@ -5,11 +5,12 @@ active gray: #b0b3ad
 End Colors*/
 
 /************Reset**************/
-html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, fieldset, legend, label, table, header, footer, nav, section { 
+* { 
 	margin: 0; 
 	padding: 0;
 	border: 0;
-} 
+}
+
 ol, ul { 
 	list-style: none; 
 }
